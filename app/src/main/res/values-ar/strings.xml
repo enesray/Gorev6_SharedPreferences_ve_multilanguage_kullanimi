@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SharedPreferences Kullanımı</string>
+    <string name="user_and_password_empty">خطأ! لا يمكن أن يكون اسم المستخدم أو كلمة المرور فارغين</string>
+    <string name="user_and_password_successful">تم التسجيل بنجاح</string>
+    <string name="login_successful">تم تسجيل الدخول بنجاح</string>
+    <string name="save">سجل</string>
+    <string name="user_password">كلمة مرور المستخدم</string>
+    <string name="user_name">اسم المستخدم</string>
+    <string name="login">تسجيل الدخول</string>
+    <string name="change_language">تغيير اللغة</string>
+</resources>

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SharedPreferences Kullanımı</string>
+    <string name="user_and_password_empty">Hata! Kullanıcı Adı veya Parola Boş Geçilemez</string>
+    <string name="user_and_password_successful">Giriş Bilgileri Cihaza Kayıt Edildi</string>
+    <string name="login_successful">Giriş Başarılı</string>
+    <string name="save">Giriş Bilgilerini Kaydet</string>
+    <string name="user_password">Kullanıcı Şifre</string>
+    <string name="user_name">Kullanıcıc Adı</string>
+    <string name="login">Giriş</string>
+    <string name="change_language">Dil Değiştir</string>
+</resources>

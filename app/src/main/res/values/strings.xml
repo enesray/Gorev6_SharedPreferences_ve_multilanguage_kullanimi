@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SharedPreferences Kullanımı</string>
+    <string name="user_and_password_empty">Error! Username or Password Cannot Be Empty</string>
+    <string name="user_and_password_successful">Registration Successful</string>
+    <string name="login_successful">Login successful</string>
+    <string name="save">Save User</string>
+    <string name="user_password">User Password</string>
+    <string name="user_name">User Name</string>
+    <string name="login">Login</string>
+    <string name="change_language">Change Language</string>
+</resources>
