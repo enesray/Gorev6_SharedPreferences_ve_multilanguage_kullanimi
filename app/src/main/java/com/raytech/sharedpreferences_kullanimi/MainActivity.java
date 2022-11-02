@@ -55,7 +55,7 @@ public class MainActivity extends AppCompatActivity {
         getUserPassword = preferences.getString("password", null);
         check = preferences.getBoolean("checkbox", false);
 
-        if (check && !TextUtils.isEmpty(getUserName) && !TextUtils.isEmpty(userPassword)) {
+        if (check && !TextUtils.isEmpty(getUserName) && !TextUtils.isEmpty(getUserPassword)) {
             editTextUsername.setText(getUserName);
             editTextUserPassword.setText(getUserPassword);
             checkBox.setChecked(check);
